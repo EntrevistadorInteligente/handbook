@@ -30,7 +30,7 @@ Aquí puedes ver las horas que se han reservado algunos miembros del equipo para
 
 | Miembro | Disponibilidad |
 | ------- | ----- |
-| [@JamiltonQuintero] | Lunes de 20:30 a 21:30 (hora Colombia / UTC-5) |
+| [@JamiltonQuintero] | Lunes a viernes de 13:00 a 15:00 (hora Colombia / UTC-5) |
 
 <!-- Links -->
 [@JamiltonQuintero]: <https://github.com/JamiltonQuintero>
