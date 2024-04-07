@@ -30,12 +30,11 @@ Una vez que hayas decidido en que quieres colaborar, puedes hacerlo de varias fo
     - En PowerShell:
 
       ```powershell
-      $repos = (Invoke-WebRequest -Uri "https://api.github.com/orgs/EntrevistadorInteligente/repos?per_page=100" | ConvertFrom-Json).clone_url
-
-      # Clone all repos
+      $repos = Invoke-WebRequest -Uri "https://api.github.com/orgs/EntrevistadorInteligente/repos?per_page=100" | ConvertFrom-Json
       foreach ($repo in $repos) {
-          git clone $repo
+        git clone $repo.clone_url
       }
+
       ```
 
 Una vez clonados los repositorios, ya tienes todo lo necesario para empezar a contribuir.
