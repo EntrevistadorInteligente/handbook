@@ -64,6 +64,6 @@ Cuando sepas en que quieres colaborar, puedes empezar a contribuir. Para ello, p
 - Si quieres seguir contribuyendo, puedes volver a empezar desde el paso 1.
 
 <!-- Links -->
-[discord]: <https://discord.gg/EN4yKMx3S8>
+[discord]: <https://discord.gg/PTgSPpTkjC>
 [organization.yml]: <https://github.com/EntrevistadorInteligente/admin/blob/main/.github/organization.yml>
 [tareas]: <https://github.com/orgs/EntrevistadorInteligente/projects/3>
