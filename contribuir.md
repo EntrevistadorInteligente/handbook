@@ -1,6 +1,6 @@
 # ¿Cómo contribuir?
 
-Para empezar a contribuir, lo primero que tienes que hacer en ver en que quieres colaborar, para ello, tenemos el [discord de EntrevistadorInteligente][discord] para hablar sobre el proyecto y el tablero de [Trello][trello] para ver las tareas que hay que hacer. Si no, tienes también los issues de GitHub para ver las tareas que hay que hacer.
+Para empezar a contribuir, lo primero que tienes que hacer en ver en que quieres colaborar, para ello, tenemos el [discord de EntrevistadorInteligente][discord] para hablar sobre el proyecto y el tablero de [Tareas][tareas] para ver las tareas que hay que hacer. Si no, tienes también los issues de GitHub para ver las tareas que hay que hacer.
 
 Una vez que hayas decidido en que quieres colaborar, puedes hacerlo de varias formas:
 
@@ -46,18 +46,18 @@ En principio, cualquier persona puede colaborar en el proyecto
 
 - Si ves algún error en el código, puedes hacer un pull request para corregirlo.
 - Si tienes una idea para mejorar el proyecto, puedes comentarla en el [discord de EntrevistadorInteligente][discord]
-- Puedes asignarte alguna tarea del tablero de [Trello][trello] y hacerla directamente o comentar en el discord que quieres hacerla y algún miembro del equipo puede ayudarte o darte feedback.
+- Puedes asignarte alguna tarea del tablero de [Tareas][tareas] y hacerla directamente o comentar en el discord que quieres hacerla y algún miembro del equipo puede ayudarte o darte feedback.
 
 Cuando sepas en que quieres colaborar, puedes empezar a contribuir. Para ello, puedes hacer lo siguiente:
 
-- Asignate la tarea que quieres hacer en el tablero de [Trello][trello] o en los issues de GitHub.
+- Asignate la tarea que quieres hacer en el tablero de [Tareas][tareas] o en los issues de GitHub.
 - Dentro del repositorio, crea una rama con el nombre de la tarea que vas a hacer. Por ejemplo, si vas a hacer la tarea `Crear el README.md`, puedes crear una rama con el nombre `crear-readme`.
 - Sube la rama al repositorio remoto.
 - Haz los cambios que quieras en la rama.
   - Recomendamos hacer commits pequeños y descriptivos para que sea más fácil revisar los cambios.
   - Recomendamos crear la PR en draft para ir subiendo los cambios a la PR y que los miembros del equipo puedan ir revisando los cambios e ir dando feedback.
 - Cuando hayas terminado, haz un pull request (de manera automática se hará un pull request a la rama principal del repositorio, dependiendo el repositorio, puede ser distinta).
-- Deja un comentario con la URL de la PR en la tarea de [Trello][trello] para poder enlazar la tarea con la PR. Si es un issue de GitHub, añade el `#<numero del issue>` en la descripción de la PR para que se enlace el issue con la PR.
+- Deja un comentario con la URL de la PR en la tarea de [Tareas][tareas] para poder enlazar la tarea con la PR. Si es un issue de GitHub, añade el `#<numero del issue>` en la descripción de la PR para que se enlace el issue con la PR.
 - Espera a que algún miembro del equipo revise la PR y te de feedback.
 - Cuando la PR esté aprobada, puedes hacer merge a la rama principal del repositorio.
 - Cuando hayas hecho merge, la rama se borra automáticamente.
@@ -66,4 +66,4 @@ Cuando sepas en que quieres colaborar, puedes empezar a contribuir. Para ello, p
 <!-- Links -->
 [discord]: <https://discord.gg/EN4yKMx3S8>
 [organization.yml]: <https://github.com/EntrevistadorInteligente/admin/blob/main/.github/organization.yml>
-[trello]: <https://trello.com/b/AcJl3llA/entrevistadorinteligente>
+[tareas]: <https://github.com/orgs/EntrevistadorInteligente/projects/3>
